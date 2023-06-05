@@ -14,3 +14,15 @@ VERİ SETİ HİKAYESİ:
 Persona.csv veri seti uluslararası bir oyun şirketinin sattığı ürünlerin fiyatlarını ve bu ürünleri satın alan kullanıcıların bazı
 demografik bilgilerini barındırmaktadır. Veri seti her satış işleminde oluşan kayıtlardan meydana gelmektedir. Bunun anlamı tablo
 tekilleştirilmemiştir. Diğer bir ifade ile belirli demografik özelliklere sahip bir kullanıcı birden fazla alışveriş yapmış olabilir.
+
+DEĞİŞKEN BİLGİLERİ:
+-------------------
+PRICE – Müşterinin harcama tutarı
+
+SOURCE – Müşterinin bağlandığı cihaz türü
+
+SEX – Müşterinin cinsiyeti
+
+COUNTRY – Müşterinin ülkesi
+
+AGE – Müşterinin yaşı
