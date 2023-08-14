@@ -139,7 +139,7 @@ df["SEGMENT"] = pd.qcut(df["PRICE"], 4, labels=["D", "C", "B", "A"])
 # Yeni gelebilecek müşterilerin şirkete ortalama ne kadar kazandıracağı sorgusun gerçekleştiriyoruz.
 
 # 33 yaşında ANDROID kullanan bir Türk kadını hangi segmente aittir ve ortalama ne kadar gelir kazandırması beklenir?
-new_user = "new_user = "tur_ios_female_31_40"
+new_user = "tur_ios_female_31_40"
 df[df["CUSTOMERS_LEVEL_BASED"] == new_user]
 
 # 35 yaşında IOS kullanan bir Fransız kadını hangi segmente ve ortalama ne kadar gelir kazandırması beklenir?
