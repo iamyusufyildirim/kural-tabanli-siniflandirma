@@ -12,7 +12,7 @@
 #      +  1     39  android  male     bra   17    +             +  1   TUR_IOS_MALE_24_30           45.000        A       +
 #      +  2     49  android  male     bra   17    +             +  2   TUR_IOS_MALE_31_40           42.333        A       +
 #      +  3     29  android  male     tur   17    +             +  3   TUR_ANDROID_FEMLAE_31_40     41.833        A       +
-#      +  4     49  android  male     tur   17    +             +  4   CAN_ANDROID_FEMALE_19_23      0.111        A       +
+#      +  4     49  android  male     tur   17    +             +  4   CAN_ANDROID_FEMALE_19_23     40.111        A       +
 #      +                                          +             +                                                         +
 #      ++++++++++++++++++++++++++++++++++++++++++++             +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
